@@ -1,0 +1,2 @@
+	yoooooo tab before declaration whatttt
+spellcheck : spellcheck.o

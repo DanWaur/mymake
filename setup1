@@ -1,0 +1,4 @@
+rm -f A B C D E
+touch C
+touch A
+touch E

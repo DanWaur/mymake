@@ -1,0 +1,8 @@
+A : B
+	touch A
+B : C
+	touch B
+C : D
+	touch C
+D : E
+	touch D
